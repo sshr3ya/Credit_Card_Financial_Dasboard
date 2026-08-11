@@ -42,7 +42,7 @@ The dashboard is designed to provide meaningful insights that can support busine
 
 The project uses four datasets containing credit card customer, transaction, and financial information.
 
-### 1. Credit Card Dataset — 'creditcard'
+### 1. Credit Card Dataset — 'credit_card'
 
 Contains credit card-related information used to analyze customer transactions, financial performance, card usage, and other credit card metrics.
 
